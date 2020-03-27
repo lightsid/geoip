@@ -1,7 +1,7 @@
 {
-    "name": "pulkitjalan/geoip",
-    "description": "Geoip Wrapper with Laravel Support",
-    "homepage": "https://github.com/pulkitjalan/geoip",
+    "name": "lightsid/geoip",
+    "description": "Fork: Geoip Wrapper with Laravel Support",
+    "homepage": "https://github.com/lightsid/geoip",
     "keywords": [
         "geoip",
         "ipstack",
